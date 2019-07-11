@@ -13,12 +13,12 @@ and complete the required method classes.
 * CREATE A SIMPLE SHOPPING CART
 ```
 	 Requirement: We should be able to add different products to shopping cart.
-	    When:
-		– Add 1 unit of ‘Gatsby hair cream’, unit price 30 Rupees.
-	        – Add 1 unit of ‘Bvlgiri Soap’, unit price 100 Rupees.
-	    Then:
-		– The product count of the cart should be 2.
-		– The total value of cart should be 130 rupees.
+	    	When:
+		        – Add 1 unit of ‘Gatsby hair cream’, unit price 30 Rupees.
+	                – Add 1 unit of ‘Bvlgiri Soap’, unit price 100 Rupees.
+	    	Then:
+		        – The product count of the cart should be 2.
+		        – The total value of cart should be 130 rupees.
 ```
  * THERE IS AN OFFER ON GATSBY HAIR CREAM 
 	* BUY X ITEM GET Y ITEM FREE– IF YOU BUY 2 GATSBY HAIR CREAM YOU WILL GET 1 FREE.
