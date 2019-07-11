@@ -43,24 +43,25 @@ and complete the required method classes.
 	* BUY 1 ITEM GET 50% DISCOUNT ON NEXT ITEM.
 	* THERE IS NO OFFER ON ‘BVLGIRI SOAP’.
 ```
-    Requirement: Apply discount on shopping cart
-        When: Add 2 unit of ‘Gatsby hair cream’, unit price 30 Rupees.
-        Then:
-            – The product count of cart should be 1.
-            – The total price of product should be 45.
-            – The total value of cart should be 45.0 rupees.	
+         Requirement: Apply discount on shopping cart
+                When:
+	               - Add 2 unit of ‘Gatsby hair cream’, unit price 30 Rupees.
+                Then:
+                       – The product count of cart should be 1.
+                       – The total price of product should be 45.
+                       – The total value of cart should be 45.0 rupees.	
 ```
 * THERE IS A GENERAL DISCOUNT
        * IF TOTAL CART VALUE IS > 500 THEN 20% DISCOUNT ON EACH PRODUCT
 ```
-   	Requirement: Apply discount on shopping cart
+   	 Requirement: Apply discount on shopping cart
 		When: 
-		    - Add 4 unit of ‘Bvlgiri Perfume’, unit price 100 Rupees.
-		    - Add 5 unit of 'Axe Deo', unit price 30 Rupees.
+		       - Add 4 unit of ‘Bvlgiri Perfume’, unit price 100 Rupees.
+		       - Add 5 unit of 'Axe Deo', unit price 30 Rupees.
 
-	Then:
-		– The product count of cart should be 2.
-		– The total price of Bvlgiri Perfumes should be 320.0.
-		– The total price of Axe Deo should be 120.0.
-		– The total value of cart should be 440.0 rupees.	
+	        Then:
+		       – The product count of cart should be 2.
+		       – The total price of Bvlgiri Perfumes should be 320.0.
+		       – The total price of Axe Deo should be 120.0.
+		       – The total value of cart should be 440.0 rupees.	
 ```		
