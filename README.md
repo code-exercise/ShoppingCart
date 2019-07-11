@@ -6,7 +6,7 @@ CREATE A SIMPLE SHOPPING CART:
 Implement following diagram to create a simple shopping cart. You can download the partially implemented code given 
 and complete the required method classes.
 
-![alt text](https://github.com/code-excercise/ShoppingCart/blob/master/shopping-cart.jpg)
+![alt text](https://github.com/code-exercise/ShoppingCart/blob/master/shopping-cart.jpg)
 
 
 
