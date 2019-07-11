@@ -20,9 +20,9 @@ and complete the required method classes.
 		– The product count of the cart should be 2.
 		– The total value of cart should be 130 rupees.
 ```
- - THERE IS AN OFFER ON GATSBY HAIR CREAM 
-	– BUY X ITEM GET Y ITEM FREE– IF YOU BUY 2 GATSBY HAIR CREAM YOU WILL GET 1 FREE.
-	– THERE IS NO OFFER ON ‘BVLGIRI SOAP’.
+ * THERE IS AN OFFER ON GATSBY HAIR CREAM 
+	* BUY X ITEM GET Y ITEM FREE– IF YOU BUY 2 GATSBY HAIR CREAM YOU WILL GET 1 FREE.
+	* THERE IS NO OFFER ON ‘BVLGIRI SOAP’.
 ```
 	 Requirement: Add Products and apply offer to shopping cart
 		When: 
