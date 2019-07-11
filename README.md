@@ -53,6 +53,7 @@ and complete the required method classes.
 ```
 * THERE IS A GENERAL DISCOUNT
         * IF TOTAL CART VALUE IS > 500 THEN 20% DISCOUNT ON EACH PRODUCT
+	*
 ```
    	 Requirement: Apply discount on shopping cart
 		When: 
