@@ -39,7 +39,7 @@ and complete the required method classes.
 			– The product count of the cart should be 2.
 			– The total value of cart should be 260.0 rupees.		
 ```
-THERE IS A DISCOUNT ON THE GATSBY HAIR CREAM
+- THERE IS A DISCOUNT ON THE GATSBY HAIR CREAM
 	– BUY 1 ITEM GET 50% DISCOUNT ON NEXT ITEM.
 	– THERE IS NO OFFER ON ‘BVLGIRI SOAP’.
 ```
@@ -50,8 +50,8 @@ THERE IS A DISCOUNT ON THE GATSBY HAIR CREAM
             – The total price of product should be 45.
             – The total value of cart should be 45.0 rupees.	
 ```
-THERE IS A GENERAL DISCOUNT
-   - IF TOTAL CART VALUE IS > 500 THEN 20% DISCOUNT ON EACH PRODUCT
+- THERE IS A GENERAL DISCOUNT
+       - IF TOTAL CART VALUE IS > 500 THEN 20% DISCOUNT ON EACH PRODUCT
 ```
    	Requirement: Apply discount on shopping cart
 		When: 
